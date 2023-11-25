@@ -1,4 +1,4 @@
-name: Simple Go Build
+name: Simple Go Build 2, original
  
 on:
   push:
